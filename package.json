@@ -1,0 +1,9 @@
+{
+  "name": "create-browser-app",
+  "version": "0.1.0",
+  "author": "TJ Mazeika <mazeika.tj@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "create-browser-app": "bin/create-browser-app.sh"
+  }
+}
